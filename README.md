@@ -7,7 +7,6 @@ Installation
 
 1. Clone this repository:
    git clone https://github.com/aryankr30/FlytBaseTask.git
-   cd uav-deconfliction-system
 
 2. Create and activate a virtual environment (recommended):
    # On Windows
